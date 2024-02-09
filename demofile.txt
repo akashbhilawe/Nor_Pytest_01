@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is demo file in local territory 
+=======
+this is demo file in local territory 
+>>>>>>> df16d4b102b289cb43ffc2fe2bbed8eb2b88eb42
